@@ -1,0 +1,52 @@
+body {
+  text-align: center;
+  background-color: rgb(94, 94, 200);
+}
+
+#resetScore {
+  background-color: red;
+  color: white;
+  border-radius: 2px;
+  border-style: groove;
+}
+
+#resetScoreText {
+  color: rgb(85, 11, 11);
+  font-size: 22px;
+}
+
+#btnHeads {
+  text-align: center;
+  background-color: rgb(109, 30, 170);
+  color: white;
+  border-radius: 2px;
+  border-style: groove;
+}
+
+#btnTails {
+  text-align: center;
+  background-color: rgb(76, 25, 148);
+  color: white;
+  border-radius: 2px;
+  border-style: groove;
+}
+
+.topLevel {
+  box-sizing: content-box;
+  width: 100%;
+  align-items: center;
+}
+
+.delScoreText {
+  text-align: center;
+}
+
+.scoreDisplay {
+  text-align: center;
+  color: black;
+}
+
+.mainTitle {
+  text-align: center;
+  color: white;
+}
